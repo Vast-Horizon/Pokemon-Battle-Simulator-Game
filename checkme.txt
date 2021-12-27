@@ -1,0 +1,8 @@
+Go to the x64 folder above, then Debug folder, Click "PokemonBattleSim.exe" and have fun!
+
+Sourse code is in the PokemonBattleSim folder
+
+If you want to use Visual Siudio to view, please open the .sin file
+
+Thank you,
+Fiavi
